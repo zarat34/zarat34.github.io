@@ -1,0 +1,23 @@
+{ "nom_mission":"herboriste",
+	"libelle_mission":"Les secrets de l'herboriste",
+	"statut_mission":"pas demarree",
+	"vocaldepart":"MissionE0.m4a",
+	"epreuves":
+	[{"nom_epreuve":"epr 1",
+	"libelle_epreuve":"Mas de causse",
+	"statut_epreuve":"pas affichable",
+	"image_indice":"indice_epr1.jpg","image_enigme":"enigme_epr1.jpg",
+	"vocalindice":"indice_epr1.m4a","vocalenigme":"enigme_epr1.m4a","vocalarrivee":"MissionE1.m4a",
+	"latitude_epreuve":"43.74389",
+	"longitude_epreuve":"4.16964"
+	},
+	{"nom_epreuve":"epr 2",
+	"libelle_epreuve":"Le transformateur",
+	"statut_epreuve":"pas affichable",
+	"image_indice":"indice_epr2.jpg","image_enigme":"enigme_epr2.jpg",
+	"vocalindice":"indice_epr2.m4a","vocalenigme":"enigme_epr2.m4a","vocalarrivee":"MissionE2.m4a",
+	"latitude_epreuve":"43.746",
+	"longitude_epreuve":"4.16989"
+	} 
+	]
+	}

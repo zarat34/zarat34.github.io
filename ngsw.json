@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1660742901625,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.cee7e67397e5ef4fc299.js",
+        "/manifest.webmanifest",
+        "/polyfills.4d76e46224bdce1e595b.js",
+        "/runtime.cb82be92243027fa64d7.js",
+        "/styles.09e2c710755c8867a460.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/AigualE1.m4a",
+        "/assets/AigualE2.m4a",
+        "/assets/AigualE3.m4a",
+        "/assets/BackgroundReduit.png",
+        "/assets/MissionE0.m4a",
+        "/assets/enigme_AigualE1.JPG",
+        "/assets/enigme_AigualE2.JPG",
+        "/assets/enigme_AigualE3.JPG",
+        "/assets/enigme_epr1.jpg",
+        "/assets/enigme_epr2.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/indice_epr1.jpg",
+        "/assets/indice_epr2.jpg",
+        "/assets/legendemission.jpg",
+        "/assets/marker-icon.png",
+        "/assets/marker-shadow.png",
+        "/assets/missions.json",
+        "/assets/missionsSVG.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/AigualE1.m4a": "6659c0db80951aa15a65b17eeb2ba420052673fb",
+    "/assets/AigualE2.m4a": "3366e04b6c149c585a26cbce33ddf43cdd728fd9",
+    "/assets/AigualE3.m4a": "b9c4f29fc030a4cb2c22fae22dd46150055901b5",
+    "/assets/BackgroundReduit.png": "4673187ea16d313e55bb0e8d949141924987a7b4",
+    "/assets/MissionE0.m4a": "bebe8268ddb2fe5c5c3ff3b445366461fe265e40",
+    "/assets/enigme_AigualE1.JPG": "acb2d94a6711c12ddc0781b193098bd283a5539c",
+    "/assets/enigme_AigualE2.JPG": "9aaf29c9c543a0dd4d64c3b39ff2e9030af47564",
+    "/assets/enigme_AigualE3.JPG": "92c3cb11c91652e3698f81cbd213e6097e7c5eb3",
+    "/assets/enigme_epr1.jpg": "ad2d2d537f3e7fc0b110e176b9093fa6cdfa2b89",
+    "/assets/enigme_epr2.jpg": "db91ec8542514415cbf7e675849aa87e4d80e84e",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/indice_epr1.jpg": "a9c6dd2fe469b1b6d981aa86f656b74b6b231771",
+    "/assets/indice_epr2.jpg": "1735fca7c04ab49a3a969755dc8b0e3b92bb1a20",
+    "/assets/legendemission.jpg": "1735fca7c04ab49a3a969755dc8b0e3b92bb1a20",
+    "/assets/marker-icon.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/assets/marker-shadow.png": "7b6a8df63930381e96604e705168d0527d6b82bc",
+    "/assets/missions.json": "9cc60e4b355968e10f124c231f6a8b5b90b37238",
+    "/assets/missionsSVG.json": "0de296017e6a8080f0eee0373f5e6686780c112d",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "13b6578985bcf000473040d3724bc3d5da738cd2",
+    "/main.cee7e67397e5ef4fc299.js": "eb62dc12fdeda0dd2824cd292c4c24d0dcc3ad73",
+    "/manifest.webmanifest": "ec7efe5020b2367ec93ef177b23b35bb5affc20c",
+    "/polyfills.4d76e46224bdce1e595b.js": "83c89b7a59b7ec2f7dd295ad222a9f01b4f99d74",
+    "/runtime.cb82be92243027fa64d7.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

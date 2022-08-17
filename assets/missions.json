@@ -1,0 +1,32 @@
+{ "nom_mission":"Aigual",
+	"libelle_mission":"Aigual a velo",
+	"statut_mission":"pas demarree",
+	"mode":"test",
+	"vocaldepart":"MissionE0.m4a",
+	"epreuves":
+	[{"nom_epreuve":"point1",
+	"libelle_epreuve":"Le Rey carrefour D999 / D329",
+	"statut_epreuve":"pas affichable",
+	"image_indice":"indice_epr1.jpg","image_enigme":"enigme_AigualE1.JPG",
+	"vocalindice":"indice_epr1.m4a","vocalenigme":"enigme_epr1.m4a","vocalarrivee":"AigualE1.m4a",
+	"latitude_epreuve":"44.000955",
+	"longitude_epreuve":"3.660102"
+	},
+	{"nom_epreuve":"point2",
+	"libelle_epreuve":"l'arboux",
+	"statut_epreuve":"pas affichable",
+	"image_indice":"indice_epr1.jpg","image_enigme":"enigme_AigualE2.JPG",
+	"vocalindice":"indice_epr1.m4a","vocalenigme":"enigme_epr1.m4a","vocalarrivee":"AigualE2.m4a",
+	"latitude_epreuve":"44.009029",
+	"longitude_epreuve":"3.648019"
+	},
+	{"nom_epreuve":"point3",
+	"libelle_epreuve":"costugabe",
+	"statut_epreuve":"pas affichable",
+	"image_indice":"indice_epr1.jpg","image_enigme":"enigme_AigualE3.JPG",
+	"vocalindice":"indice_epr1.m4a","vocalenigme":"enigme_epr1.m4a","vocalarrivee":"AigualE3.m4a",
+	"latitude_epreuve":"44.018044",
+	"longitude_epreuve":"3.642842"
+	}
+	]
+	}
